@@ -1,0 +1,468 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A9C570470F6BD44B00CCB746 /* lab2 */;
+		activeTarget = 8DD76F620486A84900D96B5E /* lab2 */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* lab2 */,
+		);
+		breakpoints = (
+			A9C570B70F6BF75D00CCB746 /* intlist.cpp:126 */,
+			A9C570BB0F6BF79E00CCB746 /* intlist.cpp:123 */,
+			A9C571420F6C17BD00CCB746 /* intlist.cpp:98 */,
+			A9C574180F6D0D2600CCB746 /* intlist.cpp:207 */,
+			A9C574220F6D0E1000CCB746 /* intlist.cpp:206 */,
+			A9C5758C0F6D963500CCB746 /* intlist.cpp:147 */,
+			A9C5759E0F6D9EB000CCB746 /* main.cpp:80 */,
+			A9C575AE0F6DA17D00CCB746 /* intlist.cpp:71 */,
+			A9C575B20F6DA1D800CCB746 /* intlist.cpp:52 */,
+			A9C575B40F6DA1DC00CCB746 /* intlist.cpp:52 */,
+			A9C575B80F6DA1FF00CCB746 /* intlist.cpp:149 */,
+			A9C575C30F6DA30500CCB746 /* intlist.cpp:70 */,
+		);
+		codeSenseManager = A9C5704B0F6BD46A00CCB746 /* Code sense */;
+		executables = (
+			A9C570470F6BD44B00CCB746 /* lab2 */,
+			A9C5770C0F71181500CCB746 /* lab2_lib */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					566,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 259654305;
+			PBXWorkspaceStateSaveDate = 259654305;
+		};
+		perUserProjectItems = {
+			A922BAA40F7A072700B4CB7B /* PBXTextBookmark */ = A922BAA40F7A072700B4CB7B /* PBXTextBookmark */;
+			A922BAA50F7A072700B4CB7B /* PBXTextBookmark */ = A922BAA50F7A072700B4CB7B /* PBXTextBookmark */;
+			A922BAA60F7A072700B4CB7B /* PBXTextBookmark */ = A922BAA60F7A072700B4CB7B /* PBXTextBookmark */;
+			A922BAA70F7A072700B4CB7B /* PBXTextBookmark */ = A922BAA70F7A072700B4CB7B /* PBXTextBookmark */;
+			A922BAA80F7A072700B4CB7B /* PBXTextBookmark */ = A922BAA80F7A072700B4CB7B /* PBXTextBookmark */;
+			A922BAA90F7A072700B4CB7B /* PBXTextBookmark */ = A922BAA90F7A072700B4CB7B /* PBXTextBookmark */;
+			A943EE020F72FBB40024BEA1 /* PBXTextBookmark */ = A943EE020F72FBB40024BEA1 /* PBXTextBookmark */;
+			A9C576E20F71142B00CCB746 /* PBXTextBookmark */ = A9C576E20F71142B00CCB746 /* PBXTextBookmark */;
+			A9C576E30F71142B00CCB746 /* PBXTextBookmark */ = A9C576E30F71142B00CCB746 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A9C5704A0F6BD46A00CCB746 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {984, 2422}}";
+			sepNavSelRange = "{3332, 0}";
+			sepNavVisRange = "{2667, 1560}";
+			sepNavWindowFrame = "{{277, 82}, {713, 696}}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* lab2 */ = {
+		activeExec = 0;
+		executables = (
+			A9C570470F6BD44B00CCB746 /* lab2 */,
+		);
+	};
+	A922BAA40F7A072700B4CB7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C5704E0F6BD4FD00CCB746 /* intlist.h */;
+		name = "intlist.h: 62";
+		rLen = 0;
+		rLoc = 1428;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 264;
+	};
+	A922BAA50F7A072700B4CB7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		name = "intlist.cpp: 78";
+		rLen = 0;
+		rLoc = 1563;
+		rType = 0;
+		vrLen = 2031;
+		vrLoc = 988;
+	};
+	A922BAA60F7A072700B4CB7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		name = "intlist.cpp: 78";
+		rLen = 0;
+		rLoc = 1563;
+		rType = 0;
+		vrLen = 2031;
+		vrLoc = 988;
+	};
+	A922BAA70F7A072700B4CB7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C5704E0F6BD4FD00CCB746 /* intlist.h */;
+		name = "intlist.h: 62";
+		rLen = 0;
+		rLoc = 1428;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 264;
+	};
+	A922BAA80F7A072700B4CB7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		name = "intlist.cpp: 204";
+		rLen = 0;
+		rLoc = 4554;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 3929;
+	};
+	A922BAA90F7A072700B4CB7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 78";
+		rLen = 0;
+		rLoc = 3332;
+		rType = 0;
+		vrLen = 1560;
+		vrLoc = 2667;
+	};
+	A943EE020F72FBB40024BEA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 78";
+		rLen = 0;
+		rLoc = 3332;
+		rType = 0;
+		vrLen = 1560;
+		vrLoc = 2667;
+	};
+	A9C570470F6BD44B00CCB746 /* lab2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = lab2;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A9C5704A0F6BD46A00CCB746 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	A9C5704B0F6BD46A00CCB746 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A9C5704E0F6BD4FD00CCB746 /* intlist.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 882}}";
+			sepNavSelRange = "{1428, 0}";
+			sepNavVisRange = "{264, 1267}";
+			sepNavWindowFrame = "{{279, 136}, {506, 642}}";
+		};
+	};
+	A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1204, 156}\";\n            s = 0;\n        },\n                {\n            r = \"{1915, 523}\";\n            s = 0;\n        },\n                {\n            r = \"{2467, 93}\";\n            s = 0;\n        },\n                {\n            r = \"{2597, 313}\";\n            s = 0;\n        },\n                {\n            r = \"{3363, 165}\";\n            s = 0;\n        },\n                {\n            r = \"{4090, 38}\";\n            s = 0;\n        },\n                {\n            r = \"{4164, 19}\";\n            s = 0;\n        },\n                {\n            r = \"{4242, 129}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 5080}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {656, 2240}}";
+			sepNavSelRange = "{3126, 0}";
+			sepNavVisRange = "{2684, 968}";
+			sepNavWindowFrame = "{{498, 116}, {710, 592}}";
+		};
+	};
+	A9C570B70F6BF75D00CCB746 /* intlist.cpp:126 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "IntList::toString()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 126;
+		location = lab2;
+		modificationTime = 259070058.130192;
+		state = 2;
+	};
+	A9C570BB0F6BF79E00CCB746 /* intlist.cpp:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "IntList::toString()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = lab2;
+		modificationTime = 259070058.130281;
+		state = 2;
+	};
+	A9C571420F6C17BD00CCB746 /* intlist.cpp:98 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "IntList::pop()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 98;
+		location = libintlist.dylib;
+		modificationTime = 259070058.130306;
+		state = 2;
+	};
+	A9C5733D0F6C5D5800CCB746 /* intlist */ = {
+		activeExec = 0;
+	};
+	A9C574180F6D0D2600CCB746 /* intlist.cpp:207 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "operator >>(std::istream& is, IntList& list)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 207;
+		location = libintlist.dylib;
+		modificationTime = 259070073.0559;
+		state = 1;
+	};
+	A9C574220F6D0E1000CCB746 /* intlist.cpp:206 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "operator >>(std::istream& is, IntList& list)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 206;
+		location = libintlist.dylib;
+		modificationTime = 259070073.055975;
+		state = 1;
+	};
+	A9C5758C0F6D963500CCB746 /* intlist.cpp:147 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "IntList::printTail()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 147;
+		location = libintlist.dylib;
+		modificationTime = 259070073.055816;
+		state = 1;
+	};
+	A9C5759E0F6D9EB000CCB746 /* main.cpp:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		functionName = "main (int argc, char * const argv[])";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = lab2;
+		modificationTime = 259070058.130413;
+		state = 2;
+	};
+	A9C575AE0F6DA17D00CCB746 /* intlist.cpp:71 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "IntList::push(int p)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 71;
+		location = libintlist.dylib;
+		modificationTime = 259070058.13054;
+		state = 2;
+	};
+	A9C575B20F6DA1D800CCB746 /* intlist.cpp:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "IntList::IntList(IntList& p)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		modificationTime = 259070058.130576;
+		state = 2;
+	};
+	A9C575B40F6DA1DC00CCB746 /* intlist.cpp:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		functionName = "IntList::IntList(IntList& p)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = libintlist.dylib;
+		modificationTime = 259070073.055854;
+		state = 1;
+	};
+	A9C575B80F6DA1FF00CCB746 /* intlist.cpp:149 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 149;
+		location = libintlist.dylib;
+		modificationTime = 259070058.130645;
+		state = 2;
+	};
+	A9C575C30F6DA30500CCB746 /* intlist.cpp:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = libintlist.dylib;
+		modificationTime = 259070073.055696;
+		state = 1;
+	};
+	A9C576E20F71142B00CCB746 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C5704F0F6BD4FD00CCB746 /* intlist.cpp */;
+		name = "intlist.cpp: 149";
+		rLen = 0;
+		rLoc = 3346;
+		rType = 0;
+		vrLen = 3188;
+		vrLoc = 1541;
+	};
+	A9C576E30F71142B00CCB746 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9C5704E0F6BD4FD00CCB746 /* intlist.h */;
+		name = "intlist.h: 54";
+		rLen = 22;
+		rLoc = 1296;
+		rType = 0;
+		vrLen = 989;
+		vrLoc = 247;
+	};
+	A9C5770A0F71181500CCB746 /* lab2_lib */ = {
+		activeExec = 0;
+		executables = (
+			A9C5770C0F71181500CCB746 /* lab2_lib */,
+		);
+	};
+	A9C5770C0F71181500CCB746 /* lab2_lib */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = lab2_lib;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+}
